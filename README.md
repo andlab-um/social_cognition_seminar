@@ -18,4 +18,4 @@
 | 05/04 | TBD | 12 Prejudice: Interplay of Cognitive and Affective Biases | 
 | 05/11 | TBD | 13 From Social Cognition to Affect | 
 | 05/18 | TBD | 14 From Affect to Social Cognition | 
-| 05/25 | TBD | 15 Behavior and Cognition |
+| 05/25 | Runquan Yu | 15 Behavior and Cognition |
