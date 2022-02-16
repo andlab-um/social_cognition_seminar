@@ -17,5 +17,5 @@
 | 04/27 | TBD | 11 Stereotyping: Cognition and Bias | 
 | 05/04 | TBD | 12 Prejudice: Interplay of Cognitive and Affective Biases | 
 | 05/11 | TBD | 13 From Social Cognition to Affect | 
-| 05/18 | TBD | 14 From Affect to Social Cognition | 
+| 05/18 | Haiyan Wu | 14 From Affect to Social Cognition | 
 | 05/25 | Runquan Yu | 15 Behavior and Cognition |
