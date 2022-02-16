@@ -4,7 +4,7 @@
 
 | Time | Presenter | Chapter | Resources |
 | ------------- | ------------- | ------------- | ------------- |
-| 02/16 | Zhaoning Li | 1 Introduction | [Slides]
+| 02/16 | Zhaoning Li | 1 Introduction | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Zhaoning%20Li_0216.pdf)
 | 02/23 | Fei Gao | 2 Dual Modes in Social Cognition | 
 | 03/02 | TBD | 3 Attention and Encoding | 
 | 03/09 | TBD | 4 Representation in Memory | 
