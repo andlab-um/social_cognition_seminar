@@ -5,7 +5,7 @@
 | Time | Presenter | Chapter | Resources |
 | ------------- | ------------- | ------------- | ------------- |
 | 02/16 | Zhaoning Li | 1 Introduction | [Slides]
-| 02/23 | TBD | 2 Dual Modes in Social Cognition | 
+| 02/23 | Fei Gao | 2 Dual Modes in Social Cognition | 
 | 03/02 | TBD | 3 Attention and Encoding | 
 | 03/09 | TBD | 4 Representation in Memory | 
 | 03/16 | TBD | 5 Self in Social Cognition | 
