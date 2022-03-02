@@ -10,7 +10,7 @@
 | 03/09 | TBD | 4 Representation in Memory | 
 | 03/16 | TBD | 5 Self in Social Cognition | 
 | 03/23 | TBD | 6 Attribution Processes | 
-| 03/30 | TBD | 7 Heuristics and Shortcuts: Efficiency in Inference and Decision Making | 
+| 03/30 | Runquan YU | 7 Heuristics and Shortcuts: Efficiency in Inference and Decision Making | 
 | 04/06 | Ruien Wang | 8 Accuracy and Efficiency in Social Inference |
 | 04/13 | TBD | 9 Cognitive Structures of Attitudes | 
 | 04/20 | TBD | 10 Cognitive Processing of Attitudes | 
