@@ -7,7 +7,7 @@
 | 02/16 | Zhaoning Li | 1 Introduction | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Zhaoning%20Li_0216.pdf)
 | 02/23 | Fei Gao | 2 Dual Modes in Social Cognition | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Fei%20Gao_0223.pptx)
 | 03/02 | Ruien Wang | 3 Attention and Encoding | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Ruien%20Wang_0302.pptx) [Paper](https://www.pnas.org/doi/epdf/10.1073/pnas.1822084116)
-| 03/09 | TBD | 4 Representation in Memory | 
+| 03/09 | Zhaoning Li | 4 Representation in Memory | 
 | 03/16 | TBD | 5 Self in Social Cognition | 
 | 03/23 | TBD | 6 Attribution Processes | 
 | 03/30 | Runquan YU | 7 Heuristics and Shortcuts: Efficiency in Inference and Decision Making | 
