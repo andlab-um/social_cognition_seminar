@@ -10,7 +10,7 @@
 | 03/09 | Zhaoning Li | 4 Representation in Memory | 
 | 03/16 | Zhaoning Li | 5 Self in Social Cognition | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Zhaoning%20Li_0316.pdf)
 | 03/23 | Ruien Wang | 6 Attribution Processes | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Ruien%20Wang_0323.pptx)
-| 03/30 | Runquan YU | 7 Heuristics and Shortcuts: Efficiency in Inference and Decision Making | 
+| 03/30 | Runquan Yu | 7 Heuristics and Shortcuts: Efficiency in Inference and Decision Making | 
 | 04/06 | Ruien Wang | 8 Accuracy and Efficiency in Social Inference |
 | 04/13 | TBD | 9 Cognitive Structures of Attitudes | 
 | 04/20 | Ruien Wang | 10 Cognitive Processing of Attitudes | 
