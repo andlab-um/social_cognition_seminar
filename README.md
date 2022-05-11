@@ -18,4 +18,4 @@
 | 05/11 | Haiyan Wu | 12 Prejudice: Interplay of Cognitive and Affective Biases | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0511.pptx)
 | 05/18 | Haiyan Wu | 13 From Social Cognition to Affect | 
 | 05/25 | Haiyan Wu | 14 From Affect to Social Cognition | 
-| 06/02 | Runquan Yu | 15 Behavior and Cognition |
+| 06/01 | Runquan Yu | 15 Behavior and Cognition |
