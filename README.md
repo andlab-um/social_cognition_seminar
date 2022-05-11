@@ -11,7 +11,7 @@
 | 03/16 | Zhaoning Li | 5 Self in Social Cognition | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Zhaoning%20Li_0316.pdf)
 | 03/23 | Ruien Wang | 6 Attribution Processes | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Ruien%20Wang_0323.pptx)
 | 03/30 | Runquan Yu | 7 Heuristics and Shortcuts: Efficiency in Inference and Decision Making | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Runquan%20Yu_0330.pdf)
-| 04/13 | Haiyan Wu | 8 Accuracy and Efficiency in Social Inference |[Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Social%20cognition%20seminar_ch8_wu.pdf)
+| 04/13 | Haiyan Wu | 8 Accuracy and Efficiency in Social Inference |[Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0413.pdf)
 | 04/20 | Yan Tian | 9 Cognitive Structures of Attitudes | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Yan%20Tian_0420.pptx)
 | 04/27 | Ruien Wang | 10 Cognitive Processing of Attitudes | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Ruien%20Wang_0427.pptx)
 | 05/04 | Haiyan Wu | 11 Stereotyping: Cognition and Bias | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0504.pptx)
