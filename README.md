@@ -16,6 +16,6 @@
 | 04/27 | Ruien Wang | 10 Cognitive Processing of Attitudes | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Ruien%20Wang_0427.pptx)
 | 05/04 | Haiyan Wu | 11 Stereotyping: Cognition and Bias | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0504.pptx)
 | 05/11 | Haiyan Wu | 12 Prejudice: Interplay of Cognitive and Affective Biases | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0511.pptx)
-| 05/18 | Haiyan Wu | 13 From Social Cognition to Affect | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Social%20cognition%20seminar_ch13_wu.pdf)
+| 05/18 | Haiyan Wu | 13 From Social Cognition to Affect | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0518.pdf)
 | 05/25 | Haiyan Wu | 14 From Affect to Social Cognition | 
 | 06/01 | Runquan Yu | 15 Behavior and Cognition |
