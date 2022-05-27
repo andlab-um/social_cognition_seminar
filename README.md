@@ -8,11 +8,11 @@
 
 <img src="https://github.com/andlab-um/social_cognition_seminar/blob/main/background.png" align="center">
 
-## Schedule
+## Schedule | 日程安排
 
-| Time | Presenter | Chapter | Resources |
+| Time 时间 | Presenter 主讲人 | Chapter 章节 | Resources 相关资料 |
 | ------------- | ------------- | ------------- | ------------- |
-| 02/16 | Zhaoning Li | 1 Introduction | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Zhaoning%20Li_0216.pdf)
+| 02/16 | Zhaoning Li<br> 李肇宁 | 1 Introduction | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Zhaoning%20Li_0216.pdf)
 | 02/23 | Fei Gao | 2 Dual Modes in Social Cognition | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Fei%20Gao_0223.pptx)
 | 03/02 | Ruien Wang | 3 Attention and Encoding | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Ruien%20Wang_0302.pptx) [Paper](https://www.pnas.org/doi/epdf/10.1073/pnas.1822084116)
 | 03/09 | Zhaoning Li | 4 Representation in Memory | 
