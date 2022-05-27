@@ -1,5 +1,13 @@
 # Social cognition seminar | 社会认知读书会
 
+[![GitHub repo size](https://img.shields.io/github/repo-size/andlab-um/social_cognition_seminar)](https://github.com/andlab-um/trinity)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40lizhn7&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/lizhn7)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/ANDlab3)
+
+## Background of the seminar
+
+
+
 ## Schedule
 
 | Time | Presenter | Chapter | Resources |
