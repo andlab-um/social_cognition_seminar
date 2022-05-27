@@ -18,9 +18,11 @@ Occasional adjustments to the schedule are made to accommodate availability of t
 
 具体会议时间会有时会有调整，请以下面的具体日程安排为准。
 
-## Venue
+## Venue | 地点
 
 On-site at Research Building N21-1004b, University of Macau
+
+澳门大学科研大楼北二十一座1004b
 
 ## Schedule | 日程安排
 
