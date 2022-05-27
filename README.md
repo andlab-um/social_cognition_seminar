@@ -8,6 +8,20 @@
 
 <img src="https://github.com/andlab-um/social_cognition_seminar/blob/main/background.png" align="center" width=561px>
 
+## Time | 时间
+
+Feburary 16, 2022 - June 01, 2022 | 2022年2月16日至6月1日
+
+Wednesday 7:30pm-9:00pm GMT+8 | 北京时间每周三晚上7点半至9点
+
+Occasional adjustments to the schedule are made to accommodate availability of the seminar members. Please check the schedule below to confirm the actual presentation time.
+
+具体会议时间会有时会有调整，请以下面的具体日程安排为准。
+
+## Venue
+
+On-site at Research Building N21-1004b, University of Macau
+
 ## Schedule | 日程安排
 
 | Time<br>时间 | Presenter<br>主讲人 | Chapter<br>章节 | Resources<br>相关资料 |
