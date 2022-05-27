@@ -1,4 +1,4 @@
-# Social cognition seminar
+# Social cognition seminar | 社会认知读书会
 
 ## Schedule
 
