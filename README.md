@@ -6,7 +6,7 @@
 
 ## Background of the seminar | 读书会背景
 
-<img src="https://github.com/andlab-um/social_cognition_seminar/blob/main/background.png" align="center" width="561px">
+<img src="https://github.com/andlab-um/social_cognition_seminar/blob/main/background.png" align="center">
 
 ## Schedule
 
