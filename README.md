@@ -42,4 +42,4 @@ On-site at Research Building N21-1004b, University of Macau
 | 05/11 | Haiyan Wu<br>伍海燕 | 12 Prejudice: Interplay of Cognitive and Affective Biases | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0511.pptx)
 | 05/18 | Haiyan Wu<br>伍海燕 | 13 From Social Cognition to Affect | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0518.pdf)
 | 05/25 | Haiyan Wu<br>伍海燕 | 14 From Affect to Social Cognition | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Haiyan%20Wu_0525.pptx)
-| 06/01 | Runquan Yu<br>于润全 | 15 Behaviour and Cognition |
+| 06/01 | Runquan Yu<br>于润全 | 15 Behaviour and Cognition | [Slides](https://github.com/andlab-um/social_cognition_seminar/blob/main/Runquan%20Yu_0601.pdf)
